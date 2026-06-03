@@ -9,7 +9,7 @@
 #include <linux/sysinfo.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("René Ornelis");
+MODULE_AUTHOR("Grupo 2");
 MODULE_DESCRIPTION("K Monitor — Monitor de salud del sistema en tiempo real");
 MODULE_VERSION("1.0");
 
